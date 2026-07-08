@@ -16,7 +16,6 @@ The notebook covers:
 
 These concepts are essential for understanding how machine learning models generalize to unseen data.
 
-
 ## 🛠️ Technologies Used
 
 - Python
@@ -44,7 +43,6 @@ After completing this notebook, you will understand:
 ## 🤝 Contributing
 
 Contributions and suggestions are welcome. Feel free to fork the repository and submit a pull request.
-
 
 ## ⭐ Support
 
