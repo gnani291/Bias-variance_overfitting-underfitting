@@ -16,7 +16,6 @@ The notebook covers:
 
 These concepts are essential for understanding how machine learning models generalize to unseen data.
 
----
 
 ## 🛠️ Technologies Used
 
@@ -36,8 +35,6 @@ After completing this notebook, you will understand:
 - How model complexity affects performance
 - Techniques to improve model generalization
 
----
-
 ## 📂 Repository Contents
 
 📦 Bias-variance_overfitting-underfitting
@@ -48,7 +45,6 @@ After completing this notebook, you will understand:
 
 Contributions and suggestions are welcome. Feel free to fork the repository and submit a pull request.
 
----
 
 ## ⭐ Support
 
